@@ -70,5 +70,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {},
-  "description": ""
+  "description": "- for Udacity\r # <img src=\"https://raw.githubusercontent.com/popdevel/weatherApp/website/0c86736d406704c471074d78f27b38fab499cb0f/images/pdyellow.svg\" alt=\"logo\" width=\"40px\"> popdevel&copy;",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popdevel/weatherApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/popdevel/weatherApp/issues"
+  },
+  "homepage": "https://github.com/popdevel/weatherApp#readme"
 }
