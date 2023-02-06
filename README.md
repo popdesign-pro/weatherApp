@@ -1,6 +1,6 @@
 # Project [Professional Develop]
 - for Udacity
-# <img src="https://raw.githubusercontent.com/popdevel/weatherApp/website/0c86736d406704c471074d78f27b38fab499cb0f/images/pdyellow.svg" alt="logo" width="40px"> popdevel&copy;
+# <img src="https://raw.githubusercontent.com/popdevel/weatherApp/master/website/images/pdyellow.svg" alt="logo" width="40px"> popdevel&copy;
 
 ## Contents:
 - [Description](#description).
@@ -26,11 +26,11 @@
 
 ## App URL
 
-- https://popdevel.github.io/popdevel/weatherApp/website/
+
 
 ## dependencies
 
 - API credentials on OpenWeatherMap.com
 
 ## Demo
-![demo01](https://github.com/popdevel/weatherApp/website//blob/master/images/demo.png?raw=true) 
+![demo01](https://github.com/popdevel/weatherApp/blob/master/website/images/demo.png?raw=true) 
